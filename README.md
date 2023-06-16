@@ -1,2 +1,2 @@
-# SchoolarSoluyion
-Assigment support
+# SchoolarSolution
+Assignment support
