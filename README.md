@@ -1,2 +1,0 @@
-# SchoolarSolution
-Assignment support
